@@ -1,1 +1,1 @@
-# loxcloud231110
+https://sub.xeton.dev/sub?target=clash&new_name=true&url=https%3A%2F%2Fv1.mk%2F0peQdcb&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
